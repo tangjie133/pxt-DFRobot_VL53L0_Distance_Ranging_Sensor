@@ -1,17 +1,14 @@
 {
     "name": "VL53L0",
-    "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "vl53l0.ts",
         "_locales/zh-cn/VL53L0-strings.json",
-    ],
-    "testFiles": [
-        "test.ts"
+        "test.ts",
+        "tsconfig.json",
+        "vl53l0.ts"
     ],
     "supportedTargets": [
         "microbit"
