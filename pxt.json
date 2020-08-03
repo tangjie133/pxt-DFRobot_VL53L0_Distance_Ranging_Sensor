@@ -1,5 +1,5 @@
 {
-    "name": "DFRobot_VL53L0_Distance_Ranging_Sensor",
+    "name": "VL53L0",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "vl53l0.ts",
-        "_locales/zh-cn/DFRobot_VL53L0_Distance_Ranging_Sensor-strings.json",
+        "_locales/zh-cn/VL53L0-strings.json",
     ],
     "testFiles": [
         "test.ts"
