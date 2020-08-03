@@ -7,7 +7,8 @@
     },
     "files": [
         "README.md",
-        "vl53l0.ts"
+        "vl53l0.ts",
+        "_locales/zh-cn/DFRobot_VL53L0_Distance_Ranging_Sensor-strings.json",
     ],
     "testFiles": [
         "test.ts"
