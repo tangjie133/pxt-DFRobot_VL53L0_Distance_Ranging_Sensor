@@ -1,5 +1,5 @@
 {
-    "VL53L0.Initializesensor|block":"初始化传感器",
+    "VL53L0.Initializeensor|block":"初始化传感器",
     "microIoT.microIoT_MQTT|block":"MQTT 配置|IOT_ID(用户): %IOT_ID|IOT_PWD(密码): %IOT_PWD|Topic(默认topic_0): %IOT_TOPIC|服务器: %SERVERS||IP: %IP",
     "microIoT.microIoT_SendMessage|block":"发送信息 %string 到 %TOPIC",
     "microIoT.microIoT_add_topic|block":"新增订阅 %top : %IOT_TOPIC",
